@@ -144,7 +144,3 @@ mumble/
 
 - DB: `~/Library/Application Support/com.a1040811.mumble/mumble.db`
 - Audio: `~/Library/Application Support/com.a1040811.mumble/meetings/<meeting_id>/audio.wav`
-
-## License
-
-Choose and add your preferred license file (for example MIT) before public release.
